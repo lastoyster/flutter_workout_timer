@@ -1,0 +1,37 @@
+name: flutter_workout_timer
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ">=2.1.0 <2.12.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  scoped_model: 
+  http: 
+  shared_preferences: 
+  popup_menu: 
+  keyboard_actions: 
+  get_it: 
+  alphabet_list_scroll_view: 
+  flutter_slidable: 
+  path_provider: 
+  flutter_svg: 
+  enum_to_string: 
+  sembast: 
+  uuid: 
+  undraw: 
+  timelines: 
+  table_calendar: 
+  intl: 
+  introduction_screen: 
+  smart_select: 
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true

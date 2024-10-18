@@ -4,7 +4,7 @@ publish_to: 'none'
 version: 0.1.0
 
 environment:
-  sdk: ">=2.1.0 <2.12.0"
+  sdk: ">=2.17.0 <3.22.1"
 
 dependencies:
   flutter:
@@ -22,7 +22,7 @@ dependencies:
   enum_to_string: 
   sembast: 
   uuid: 
-  undraw: 
+  ms_undraw: ^3.2.0
   timelines: 
   table_calendar: 
   intl: 
